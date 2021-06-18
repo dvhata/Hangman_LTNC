@@ -1,0 +1,7 @@
+﻿  1 Main.cpp
+D:\Visual Studio 2019\source\repos\Hangman 4.0\Hangman 4.0\1 Main.cpp(106,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Studio 2019\source\repos\Hangman 4.0\Hangman 4.0\1 Main.cpp(159,12): warning C4102: 'end': unreferenced label
+  2 DRAW.cpp
+  Generating Code...
+D:\Visual Studio 2019\source\repos\Hangman 4.0\Hangman 4.0\1 Main.cpp(98): warning C4715: 'chooseTopic': not all control paths return a value
+  Hangman 4.0.vcxproj -> D:\Visual Studio 2019\source\repos\Hangman 4.0\Debug\Hangman 4.0.exe
